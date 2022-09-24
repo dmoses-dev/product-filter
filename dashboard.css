@@ -14,7 +14,10 @@
         box-shadow: 3px 3px 5px 3px rgba(186, 186, 186, 1)  !important;
         display: flex !important;
         justify-content: center !important;
-        margin-left: 80px !important;
-        max-width: 350px !important;
+        margin-left: 28px !important;
+        max-width: 300px !important;
+    }
+    .my-product {
+        margin-right: 20px !important;
     }
 }
