@@ -9,7 +9,7 @@
     font-size: 1.2rem;
 }
 
-@media (max-width: 915px){
+/* @media (max-width: 915px){
     .corset {
         box-shadow: 3px 3px 5px 3px rgba(186, 186, 186, 1)  !important;
         margin-left: 10.5% !important;
@@ -18,4 +18,4 @@
     .my-product {
         margin-right: 20px !important;
     }
-}
+} */
